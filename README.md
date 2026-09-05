@@ -1,1 +1,1 @@
-# -NULL-Functions-In-SQL-Server
+# NULL-Functions-In-SQL-Server
